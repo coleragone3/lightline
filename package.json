@@ -1,0 +1,9 @@
+{
+  "name": "lightline-io",
+  "version": "1.0.0",
+  "description": "Multiplayer light-cycle arena (agar.io-style) with rubber and wall grinding",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
